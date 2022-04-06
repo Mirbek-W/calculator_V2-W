@@ -1,6 +1,6 @@
 <RCC>
-  <qresource prefix="icon">
-    <file>outline_backspace_white_24dp.png</file>
-    <file>outline_calculate_black_24dp.png</file>
+  <qresource prefix="icons">
+    <file>icons/backspace.svg</file>
+    <file>icons/calculator.svg</file>
   </qresource>
 </RCC>
